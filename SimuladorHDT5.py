@@ -1,3 +1,10 @@
+#UNivesidad del Valle de GUatemala
+#Algortitmos Seccion 10
+#Steven Rubio 150044
+#Erick Bautista 15192
+#Hoja de trabajo 5
+
+#aqui se importan las librerias necesarias para el programa
 import random
 import simpy
 
